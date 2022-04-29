@@ -1,6 +1,6 @@
 
 
-I'm a pre-final year undergraduate student majoring in Electronics and Communication with an interest in AI and Quantum Computing.
+I'm a pre-final year undergraduate student majoring in Electronics and Communication with an interest in AI, Quantum Computing and Stoic Philosophy.
 <br>
 <br>
 <br>
@@ -11,7 +11,7 @@ I'm a pre-final year undergraduate student majoring in Electronics and Communica
 <!-- https://cdn.dribbble.com/users/5677098/screenshots/15028899/Frustrating-Animation.gif
 https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif -->
 - 🔭 I’m currently working on GANs <br>
-- 🌱 I’m currently learning Generative Models, Reinforcement learning and Stoic Philosophy<br>
+- 🌱 I’m currently learning Generative Models and Reinforcement learning<br>
 - 👯 I’m looking to collaborate on Machine Learning Projects <br>
 - 📫 How to reach me: abhyudayaapoorvacr7@gmail.com <br>
 
