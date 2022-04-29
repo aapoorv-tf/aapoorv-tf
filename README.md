@@ -9,9 +9,12 @@ I'm a pre-final year undergraduate student majoring in Electronics and Communica
 <br>
 <br>
 <br>
-<img align="right" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" height="200px" width="350px">
+<img align="right" src="https://user-images.githubusercontent.com/63904110/165995286-a8978ae2-4470-4925-af7a-c4cd987f8dd2.gif" height="200px" width="350px">
 
 
+
+<!-- https://cdn.dribbble.com/users/5677098/screenshots/15028899/Frustrating-Animation.gif
+https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif -->
 - 🔭 I’m currently working on GANs <br>
 - 🌱 I’m currently learning Generative Models and Reinforcement learning <br>
 - 👯 I’m looking to collaborate on Machine Learning Projects <br>
