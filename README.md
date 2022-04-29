@@ -1,9 +1,4 @@
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhyudaya-apoorva-8ab0b2193/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<!--   <a href="https://leetcode.com/sukhseerat/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a> -->
-  <!-- <a href="https://twitter.com/see_d_rat"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> -->
-</p>
-<br>
+
 
 I'm a pre-final year undergraduate student majoring in Electronics and Communication with an interest in AI and Quantum Computing.
 <br>
@@ -21,8 +16,15 @@ https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif -->
 - 📫 How to reach me: abhyudayaapoorvacr7@gmail.com <br>
 
 <br><br>
+## Connect with me
+<p>
+  <a href="https://www.linkedin.com/in/abhyudaya-apoorva-8ab0b2193/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<!--   <a href="https://leetcode.com/sukhseerat/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a> -->
+  <!-- <a href="https://twitter.com/see_d_rat"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> -->
+</p>
+<br>
 
-## 🛠 Languages, Technologies And Tools
+## Languages, Technologies And Tools
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E)
