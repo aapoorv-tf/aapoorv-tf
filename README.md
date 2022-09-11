@@ -1,6 +1,6 @@
 
 
-I'm a pre-final year undergraduate student majoring in Electronics and Communication with an interest in AI, Quantum Computing and Stoic Philosophy.
+I'm a pre-final year undergraduate student majoring in Electronics and Communication with an interest in AI, Quantum Computing, Physics and Stoic Philosophy.
 <br>
 <br>
 <br>
